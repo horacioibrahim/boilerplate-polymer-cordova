@@ -1,0 +1,27 @@
+{
+  "name": "Voting Frontend",
+  "authors": [
+    "Horacio Ibrahim <horacioibrahim@gmail.com>"
+  ],
+  "description": "This application is useful for voting",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "voting",
+    "horacioibrahim",
+    "webcomponentsapp"
+  ],
+  "license": "MIT",
+  "homepage": "horacioibrahim.github.io/voting",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/vendor",
+    "test",
+    "tests"
+  ]
+}

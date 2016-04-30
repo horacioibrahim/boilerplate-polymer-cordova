@@ -1,0 +1,8 @@
+# no distributed files
+node_modules
+dist
+www/vendor
+
+# Mac files
+.DS_Store
+
